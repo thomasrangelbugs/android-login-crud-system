@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.loginsistema.app-debug-32:/drawable_bg_gradient_light.xml.flat",
+        "source": "com.example.loginsistema.app-main-34:/drawable/bg_gradient_light.xml"
+    },
+    {
+        "merged": "com.example.loginsistema.app-debug-32:/drawable_bg_info_box.xml.flat",
+        "source": "com.example.loginsistema.app-main-34:/drawable/bg_info_box.xml"
+    },
+    {
+        "merged": "com.example.loginsistema.app-debug-32:/layout_item_pessoa.xml.flat",
+        "source": "com.example.loginsistema.app-main-34:/layout/item_pessoa.xml"
+    },
+    {
+        "merged": "com.example.loginsistema.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.loginsistema.app-main-34:/layout/activity_main.xml"
+    }
+]
